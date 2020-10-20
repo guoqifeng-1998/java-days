@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df3725c-3fdc-4f32-859f-6e786c7fba10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-study/com/qfguo/study/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-study/day01/Bubblesort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qfguo/study/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/Bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qfguo/study/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day01/Bubblesort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603202891202</updated>
-      <workItem from="1603202893326" duration="4504000" />
+      <workItem from="1603202893326" duration="5628000" />
     </task>
     <servers />
   </component>
@@ -89,6 +83,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603209997560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603209997560" />
     <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1603208961753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
