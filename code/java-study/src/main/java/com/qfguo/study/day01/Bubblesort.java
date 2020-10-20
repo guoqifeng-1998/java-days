@@ -1,4 +1,4 @@
-package day01;
+package com.qfguo.study.day01;
 
 /**
  * @ClassName BubbLesort
