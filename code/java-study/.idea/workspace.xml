@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df3725c-3fdc-4f32-859f-6e786c7fba10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day03/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day04/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day04/MatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day04/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day04/MyClassTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1j94IFbcPpmx2AzWg266XXOO7J5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,13 +49,13 @@
       <recent name="D:\java-daily\code\java-study\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
-    <configuration name="Bubblesort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day01.Bubblesort" />
+  <component name="RunManager" selected="Application.MyClassTest">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day04.ArrayDemo" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qfguo.study.day01.*" />
+          <option name="PATTERN" value="com.qfguo.study.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +63,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day01.day01.Bubblesort" />
+    <configuration name="MatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day04.MatDemo" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qfguo.study.day01.day01.*" />
+          <option name="PATTERN" value="com.qfguo.study.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day04.MyClass" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfguo.study.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day04.MyClassTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfguo.study.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,39 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day02.StringTest01" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qfguo.study.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day02.StringTest02" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qfguo.study.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyClassTest" />
+        <item itemvalue="Application.MatDemo" />
+        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.StringTest02" />
-        <item itemvalue="Application.StringTest01" />
-        <item itemvalue="Application.Bubblesort (1)" />
-        <item itemvalue="Application.Bubblesort" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +141,8 @@
       <workItem from="1603202893326" duration="6933000" />
       <workItem from="1603212937870" duration="69000" />
       <workItem from="1603289100944" duration="2163000" />
-      <workItem from="1603352931868" duration="5730000" />
+      <workItem from="1603352931868" duration="6273000" />
+      <workItem from="1603458773553" duration="6627000" />
     </task>
     <servers />
   </component>
@@ -160,33 +166,53 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603211913874" />
+    <state x="672" y="230" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1603462755707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="230" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603462755707" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603211940076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603211940076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603291342691">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603469599509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603291342691" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603291342691">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599509" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603469599509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603291342691" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603291342691">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599509" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603469599509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603291342691" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603291342691">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599509" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603469599509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603291342691" />
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603352931319">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599509" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1603469599502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603352931319" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603289928435">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1603469599502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603289928435" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1603469599502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599502" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1603469599502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599502" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603458777599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603458777599" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603461025275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603461025275" />
   </component>
 </project>
