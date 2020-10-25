@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df3725c-3fdc-4f32-859f-6e786c7fba10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day05/BaseGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day05/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day05/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day05/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day05/TestGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day05/TraversalList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qfguo/study/day06/ReceptTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +46,7 @@
       <recent name="D:\java-daily\code\java-study\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGraph">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day04.ArrayDemo" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qfguo.study.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReceptTest">
     <configuration name="MatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day04.MatDemo" />
       <module name="java-study" />
@@ -87,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.qfguo.study.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceptTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qfguo.study.day06.ReceptTest" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qfguo.study.day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReceptTest" />
         <item itemvalue="Application.TestGraph" />
         <item itemvalue="Application.TraversalList" />
         <item itemvalue="Application.MyClassTest" />
         <item itemvalue="Application.MatDemo" />
-        <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +140,8 @@
       <workItem from="1603289100944" duration="2163000" />
       <workItem from="1603352931868" duration="6273000" />
       <workItem from="1603458773553" duration="6627000" />
-      <workItem from="1603530319969" duration="3932000" />
+      <workItem from="1603530319969" duration="4717000" />
+      <workItem from="1603632388208" duration="3479000" />
     </task>
     <servers />
   </component>
@@ -184,22 +177,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603211940076" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603540047035">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603635873317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603540047035" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603540047035">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603635873317" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603635873317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603540047035" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603540047034">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603635873317" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603635873316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603540047034" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603540047035">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603635873316" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603635873317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603540047035" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603635873317" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1603469599502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -216,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603469599502" />
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603530549067">
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603632428260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603530549067" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603632428260" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1603538953252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
