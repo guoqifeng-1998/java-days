@@ -10,6 +10,7 @@ public class Test {
     public static void main(String[] args) {
         String gqf = "湖人总冠军";
         System.out.println(StringUtil.repeat(gqf ,3));
+
         System.out.println(StringUtil.left(gqf ,2));
         System.out.println(StringUtil.subStringOmit(gqf ,2));
         System.out.println(StringUtil.isEmpty("湖人"));
