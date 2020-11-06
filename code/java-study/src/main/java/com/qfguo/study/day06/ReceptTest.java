@@ -45,6 +45,8 @@ public class ReceptTest {
         for (User user : uList) {
             r1.recept(user);
             r2.recept(user);
+
+
             r3.recept(user);
         }
         System.out.println("已分组:");
